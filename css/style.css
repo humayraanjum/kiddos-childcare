@@ -1,0 +1,463 @@
+body
+{
+    margin:0;
+    padding: 0;
+    color:black;
+    font-family: "Montserrat-Black",sans-serif;
+    
+}
+
+h3
+{
+    font-weight:"Montserrat",sans-serif;
+    color:black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+
+#home
+{
+    width:100%;
+    
+    background-color:#CFFF8D;
+    margin-top: 0;
+    margin:0;
+}
+
+.navbar-brand
+{
+    font-family: "Ubuntu",sans-serif;
+    color: #379237;
+    font-weight: bold;
+    padding-left: 50px;
+    font-size: 2rem;
+}
+.navbar-brand:hover
+{
+    color:#82CD47;
+}
+
+#home h1
+{
+    font-size: 3rem;
+    padding:100px 50px 50px 50px;
+    line-height: 1;
+    font-weight: bold;
+    font-family: "Montserrat",sans-serif;
+    color:#379237;
+}
+
+#home p
+{
+    padding:5px 50px 5px 50px;
+    line-height: 1.5;
+    color:grey;
+}
+
+#home .btn
+{
+    background-color: #379237;
+    margin:10px 50px 100px 50px;
+    height: 50px;
+    width:150px;
+    font-size:20px;
+}
+
+#home .btn:hover
+{
+    border:#379237 solid 1px;
+    background-color: white;
+    color:#379237;
+    font-weight: bold;
+}
+
+.baby-img
+{
+   width:100%;
+   height:400px;
+   padding-top:50px;
+   border-radius: 50%;
+}
+
+#features
+{
+    width:100%;
+    
+    background-color: #FFF47D;
+    padding: 7% 15%;
+}
+
+#features h2
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    color:#379237;
+    padding-top: 30px;
+    font-family: "Montserrat",sans-serif;
+}
+#features hr
+{
+    border-top: #379237 solid 6px;
+    width:20%;
+    margin:10px auto 10px auto;
+    padding-bottom: 100px;
+    color: #379237;
+}
+
+.feature-box 
+{
+    text-align: center;
+    padding:5%;
+    line-height: 1.5;
+
+    
+    
+}
+
+.feature-box p
+{
+   color:#8f8f8f;
+}
+
+.icon
+{
+    color:#82CD47;
+    margin-bottom:1.3rem;
+}
+
+.icon:hover
+{
+    color:#379237;
+}
+
+
+#services
+{
+    
+    background-color: #82CD47;
+    padding-top: 100px;
+}
+
+.carousel-item
+{
+    padding:5% 10%;
+}
+
+button
+{
+    color:#379237;
+}
+
+.service-images img
+{
+    width:500px;
+    height:340px;
+    border-radius: 10%;
+}
+
+#services h1
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: bold;
+    padding:10px auto 30px auto;
+
+}
+
+#services h2
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: bold;
+    padding-top:100px;
+    color:#379237;
+}
+
+#services p
+{
+    color:#ffffff;
+}
+
+#services p:hover
+{
+    color:#379237;
+}
+
+#services h1
+{
+    
+    font-weight: bold;
+    font-size: 3rem;
+    color:#ffffff;
+    padding:30px auto 30px auto;
+    text-align: center;
+}
+
+#packages
+{
+    padding:5% 10%;
+    background-color: #CFFF8D;
+    
+}
+
+#packages h1
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 100px auto;
+
+    color:#379237;
+    text-align: center;
+}
+
+#packages h3
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.2;
+}
+
+#packages p
+{
+    color:#8f8f8f;
+    padding-bottom: 20px;
+}
+
+
+.card
+{
+    text-align: center;
+    height:250px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+
+.rates
+{
+    margin-bottom:20px;
+}
+
+
+.card-title
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    font-weight: bold;
+    padding-top:20px;
+}
+
+.paybutton
+{
+    background-color: #379237;
+    border:solid #379237  1px;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+.paybutton:hover 
+{
+    background-color:#82CD47;
+    
+}
+h5
+{
+    font-family: "Montserrat",sans-serif;
+}
+
+
+#testimonial
+{
+    background-color: #FFF47D;
+    padding:5% 10%;
+}
+
+#testimonial h1
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 100px auto;
+
+    color:#379237;
+    text-align: center;
+}
+
+
+
+
+#testimonial-images img
+{
+    
+    width:20px;
+    border-radius: 50%;
+
+}
+.testimonial-text
+{
+    text-align: center;
+}
+ 
+.testimonial-text h3
+{
+    text-align: center;
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding-bottom:5px;
+    
+}
+
+#contact
+{
+    padding: 5% 10%;
+    text-align: center;
+    background-color: #CFFF8D;
+}
+
+
+#contact h1
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 50px auto;
+
+    color:#379237;
+    
+}
+#contact p
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    padding-bottom:20px;
+}
+
+#contact  .btn
+{
+    background-color: #379237;
+    margin:10px 50px 100px 50px;
+    height: 50px;
+    width:200px;
+    font-size:20px;
+} 
+
+#contact .btn:hover 
+{
+    background-color: #82CD47;
+}
+
+.dis{
+    padding-right: 15px;
+    padding-bottom: 15px;
+    color: #379237;
+}
+
+.dis:hover 
+{
+    color:#82CD47;
+}
+
+
+
+#appointment
+{
+    padding: 5% 10%;
+    text-align: center;
+    background-color: #E3C770;
+}
+
+#appointment h1
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 50px auto;
+    text-align: center;
+    color:#379237;
+}
+
+#appointment h2
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 50px auto;
+    text-align: center;
+    color:#379237;
+}
+#appointment h3
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin:50px auto 50px auto;
+    text-align: center;
+    color:#379237;
+}
+
+
+#appointment p
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    padding-bottom:20px;
+}
+
+#appointment hr
+{
+    border-top: dotted #379237 7px;
+    width:10%;
+    text-align: center;
+    margin:auto 490px 50px auto;
+}
+
+form
+{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.2rem;
+}
+
+
+input
+{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+
+
+textarea
+{
+    width:400px;
+    height:200px;
+    border-radius: 20px;
+}
+
+#appointment .btn
+{
+    background-color: #379237;
+    margin:10px 50px 100px 50px;
+    height: 50px;
+    width:200px;
+    font-size:20px;
+    color:#fff;
+}
+
+#appointment .btn:hover 
+{
+    background-color: #82CD47;
+}
